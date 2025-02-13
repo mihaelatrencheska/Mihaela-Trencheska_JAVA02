@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lesson01/Lesson01.iml" filepath="$PROJECT_DIR$/Lesson01/Lesson01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Mihaela-Trencheska_JAVA02.iml" filepath="$PROJECT_DIR$/.idea/Mihaela-Trencheska_JAVA02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson01/Task_01/Task_01.iml" filepath="$PROJECT_DIR$/Lesson01/Task_01/Task_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson01/Task_02/Task_02.iml" filepath="$PROJECT_DIR$/Lesson01/Task_02/Task_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson01/Task_03/Task_03.iml" filepath="$PROJECT_DIR$/Lesson01/Task_03/Task_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson01/Task_04/Task_04.iml" filepath="$PROJECT_DIR$/Lesson01/Task_04/Task_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson01/Task_05/Task_05.iml" filepath="$PROJECT_DIR$/Lesson01/Task_05/Task_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson01/Task_06/Task_06.iml" filepath="$PROJECT_DIR$/Lesson01/Task_06/Task_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson01/Task_07/Task_07.iml" filepath="$PROJECT_DIR$/Lesson01/Task_07/Task_07.iml" />
+    </modules>
+  </component>
+</project>
