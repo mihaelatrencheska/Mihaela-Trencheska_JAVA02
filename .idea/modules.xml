@@ -4,10 +4,15 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Lesson01/Lesson01.iml" filepath="$PROJECT_DIR$/Lesson01/Lesson01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson02/Lesson02.iml" filepath="$PROJECT_DIR$/Lesson02/Lesson02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson03/Lesson03.iml" filepath="$PROJECT_DIR$/Lesson03/Lesson03.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Mihaela-Trencheska_JAVA02.iml" filepath="$PROJECT_DIR$/.idea/Mihaela-Trencheska_JAVA02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson02/Task01/Task01.iml" filepath="$PROJECT_DIR$/Lesson02/Task01/Task01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson03/Task01_L03/Task01_L03.iml" filepath="$PROJECT_DIR$/Lesson03/Task01_L03/Task01_L03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson03/Task02_L03/Task02_L03.iml" filepath="$PROJECT_DIR$/Lesson03/Task02_L03/Task02_L03.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson02/Task03/Task03.iml" filepath="$PROJECT_DIR$/Lesson02/Task03/Task03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson03/Task03_L03/Task03_L03.iml" filepath="$PROJECT_DIR$/Lesson03/Task03_L03/Task03_L03.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson02/Task04/Task04.iml" filepath="$PROJECT_DIR$/Lesson02/Task04/Task04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson03/Task04_L03/Task04_L03.iml" filepath="$PROJECT_DIR$/Lesson03/Task04_L03/Task04_L03.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson02/Task05/Task05.iml" filepath="$PROJECT_DIR$/Lesson02/Task05/Task05.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson02/Task06/Task06.iml" filepath="$PROJECT_DIR$/Lesson02/Task06/Task06.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson01/Task_01/Task_01.iml" filepath="$PROJECT_DIR$/Lesson01/Task_01/Task_01.iml" />
