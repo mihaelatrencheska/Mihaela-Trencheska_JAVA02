@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lesson04/L04_Task01/L04_Task01.iml" filepath="$PROJECT_DIR$/Lesson04/L04_Task01/L04_Task01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson04/L04_Task02/L04_Task02.iml" filepath="$PROJECT_DIR$/Lesson04/L04_Task02/L04_Task02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson01/Lesson01.iml" filepath="$PROJECT_DIR$/Lesson01/Lesson01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson02/Lesson02.iml" filepath="$PROJECT_DIR$/Lesson02/Lesson02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson03/Lesson03.iml" filepath="$PROJECT_DIR$/Lesson03/Lesson03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson04/Lesson04.iml" filepath="$PROJECT_DIR$/Lesson04/Lesson04.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Mihaela-Trencheska_JAVA02.iml" filepath="$PROJECT_DIR$/.idea/Mihaela-Trencheska_JAVA02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson02/Task01/Task01.iml" filepath="$PROJECT_DIR$/Lesson02/Task01/Task01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson03/Task01_L03/Task01_L03.iml" filepath="$PROJECT_DIR$/Lesson03/Task01_L03/Task01_L03.iml" />
